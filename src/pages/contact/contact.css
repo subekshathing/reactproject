@@ -1,0 +1,87 @@
+.contact__container{
+    display: grid;
+    place-items: center;
+}
+
+.contact__wrapper{
+    width: fit-content;
+    display: flex;
+    gap: 2rem;
+}
+
+.contact__wrapper a{
+    background: var(--color-primary);
+    font-size: 2rem;
+    border: 2px solid transparent;
+    transition: var(--transition);
+    padding: 2rem;
+    border-radius: 1.5rem;
+}
+
+.contact__wrapper a:hover{
+    background: transparent;
+    border-color: var(--color-gray-100);
+}
+
+
+/* Define keyframes animation called "moveLeft" */
+@keyframes moveLeft {
+    0% {
+        transform: translateX(-100%); /* Start off-screen to the right */
+    }
+    100% {
+        transform: translateX(100%); /* Move completely off-screen to the left */
+    }
+}
+
+/* Apply the animation to a specific class or element */
+.moving-text {
+    white-space: nowrap; /* Prevent line breaks within the text */
+    animation: moveLeft 15s linear infinite; /* Use the "moveLeft" animation for continuous movement */
+    font-size: 2rem;
+    color: red;
+}
+
+
+
+
+    /* This is a class called "mapouter" for the map container */
+    .mapouter {
+        position: relative;
+        text-align: right;
+        width: 80%; /* The map container will take up 100% of its parent's width */
+        height: 432px; /* The map container will have a fixed height of 432 pixels */
+    }
+
+    /* This is a class called "gmap_canvas" for the Google Map iframe */
+    .gmap_canvas {
+        overflow: hidden;
+        background: none!important; /* Remove any background styles applied to the iframe */
+        width: 100%; /* The iframe will take up 100% of its parent's width */
+        height: 432px; /* The iframe will have a fixed height of 432 pixels */
+    }
+
+    /* This is a class called "gmap_iframe" */
+    .gmap_iframe {
+        height: 432px!important; /* Ensure the iframe has a fixed height of 432 pixels */
+    }
+
+  
+    
+
+
+/* media query (small screen) */
+@media screen and (max-width:600px) {
+    .contact__wrapper{
+        gap: 1.5rem;
+    }
+    .contact__wrapper a{
+        padding: 1rem;
+        font-size: 1.2rem;
+        border-radius: 1rem;
+    }
+    .moving-text {
+    
+        font-size: 0.9rem;
+    }
+}

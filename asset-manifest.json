@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/reactproject/static/css/main.7bd46e17.css",
+    "main.js": "/reactproject/static/js/main.ee9d7c08.js",
+    "static/media/value.jpg": "/reactproject/static/media/value.9417cc0261d201cecf55.jpg",
+    "static/media/logo3.png": "/reactproject/static/media/logo3.b0a6d620142bc255453e.png",
+    "static/media/gallery14.jpg": "/reactproject/static/media/gallery14.9a5040c6305644042cf3.jpg",
+    "static/media/gallery13.jpg": "/reactproject/static/media/gallery13.8861e1dd4d5ccf7c3adb.jpg",
+    "static/media/gallery11.jpg": "/reactproject/static/media/gallery11.569d9549f6cf66e934dd.jpg",
+    "static/media/gallery15.jpg": "/reactproject/static/media/gallery15.398a92a1b4ec4a2260be.jpg",
+    "static/media/gallery2.jpg": "/reactproject/static/media/gallery2.9d91389a73bb9e1b2e67.jpg",
+    "static/media/gallery4.jpg": "/reactproject/static/media/gallery4.9364176eada26e093749.jpg",
+    "static/media/main_header.png": "/reactproject/static/media/main_header.74af929b0dee3e0ce476.png",
+    "static/media/gallery1.jpg": "/reactproject/static/media/gallery1.b4d976acf2e8f26592d0.jpg",
+    "static/media/gallery9.jpg": "/reactproject/static/media/gallery9.b4d976acf2e8f26592d0.jpg",
+    "static/media/gallery7.jpg": "/reactproject/static/media/gallery7.439e7ef3074b1e881274.jpg",
+    "static/media/trainer5.jpg": "/reactproject/static/media/trainer5.3be0f2d13c26dac07025.jpg",
+    "static/media/trainer1.jpg": "/reactproject/static/media/trainer1.c6aeb16a2a247e5b12f8.jpg",
+    "static/media/gallery8.jpg": "/reactproject/static/media/gallery8.774c7be8fab3faf94b69.jpg",
+    "static/media/trainer3.jpg": "/reactproject/static/media/trainer3.bdf1c7676feb2e7af46f.jpg",
+    "static/media/gallery6.jpg": "/reactproject/static/media/gallery6.20b829a6acf1b1988fe5.jpg",
+    "static/media/gallery5.jpg": "/reactproject/static/media/gallery5.be1a952d05f32d4bc6e0.jpg",
+    "static/media/about1.jpg": "/reactproject/static/media/about1.541afe292092fe02d017.jpg",
+    "static/media/gallery12.jpg": "/reactproject/static/media/gallery12.b946ba913664abc6dfc7.jpg",
+    "static/media/about2.jpg": "/reactproject/static/media/about2.37ba5d56f4e1970d38c0.jpg",
+    "static/media/about3.jpg": "/reactproject/static/media/about3.754e6b543e0681b4615d.jpg",
+    "static/media/gallery3.jpg": "/reactproject/static/media/gallery3.d0f68f98a295dda414ab.jpg",
+    "static/media/trainer4.jpg": "/reactproject/static/media/trainer4.df6df5dca627f905092d.jpg",
+    "static/media/gallery10.jpg": "/reactproject/static/media/gallery10.02be277d58240d581481.jpg",
+    "static/media/trainer2.jpeg": "/reactproject/static/media/trainer2.7f1350606cf97e52f760.jpeg",
+    "static/media/avatar5.jpg": "/reactproject/static/media/avatar5.2b1a9aa5e56fd1e9ca02.jpg",
+    "static/media/avatar1.jpg": "/reactproject/static/media/avatar1.ac314b7340f89fb9235f.jpg",
+    "index.html": "/reactproject/index.html",
+    "main.7bd46e17.css.map": "/reactproject/static/css/main.7bd46e17.css.map",
+    "main.ee9d7c08.js.map": "/reactproject/static/js/main.ee9d7c08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd46e17.css",
+    "static/js/main.ee9d7c08.js"
+  ]
+}

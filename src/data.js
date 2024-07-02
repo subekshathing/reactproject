@@ -306,8 +306,8 @@ export const trainers = [
     {
         id: 5,
         image: Trainer3,
-        name: '  Samiksha Thing',
-        job: 'Program Manager',
+        name: 'Samiksha Thing',
+        job: 'Account Officer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
    

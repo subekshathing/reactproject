@@ -279,34 +279,34 @@ export const trainers = [
         id: 1,
         image: Trainer1,
         name: 'Indra Bahadur Thing',
-        job: 'Propritor',
+        job: 'Propritor(Vet. Technician)',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 2,
-        image: Trainer2,
-        name: 'Pratiksha Thing',
-        job: 'Field Supervisor',
+        image: Trainer4,
+        name: 'Shuvechchha Thing',
+        job: 'Executive Director',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 3,
-        image: Trainer3,
-        name: 'Samiksha Thing',
-        job: 'Account Officer',
+        image: Trainer5,
+        name: ' Suntali Thing',
+        job: 'Program Manager',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 4,
-        image: Trainer4,
-        name: 'Shuvechchha Thing',
-        job: 'Co-ordinator',
+        image: Trainer2,
+        name: '  Pratiksha Thing',
+        job: ' Field Supervisor',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 5,
-        image: Trainer5,
-        name: 'Suntali Thing',
+        image: Trainer3,
+        name: '  Samiksha Thing',
         job: 'Program Manager',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
